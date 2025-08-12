@@ -1,6 +1,6 @@
 <!-- 07/27/2022 -->
 
-![Banner](https://raw.githubusercontent.com/davidgregorio16/davidgregorio16/main/banner.png)
+![Banner](https://raw.githubusercontent.com/warmnights/warmnights/main/banner.png)
 <div align="center">
 <h1>
 Hey, I'm David Gregorio!
@@ -9,22 +9,26 @@ Hey, I'm David Gregorio!
 </div>
 
 <!-- Light Mode -->
-<div align="center"> 
+<div align="center">
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=graywhite&hide_border=1&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Github stats" />
+<img height=180 src="https://github-readme-stats.vercel.app/api?username=warmnights&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=graywhite&hide_border=1&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Github stats" />
 </a>
+-->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&role=OWNER,COLLABORATOR&theme=graywhite&hide_border=1&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Language stats" />
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=warmnights&layout=compact&role=OWNER,COLLABORATOR&theme=graywhite&hide_border=1&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Language stats" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center">
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Github stats" />
+<img height=180 src="https://github-readme-stats.vercel.app/api?username=warmnights&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Github stats" />
 </a>
+-->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&role=OWNER,COLLABORATOR&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Language stats" />
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=warmnights&layout=compact&role=OWNER,COLLABORATOR&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Language stats" />
 </a>
 </div>
 
