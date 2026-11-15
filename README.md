@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/warmnights/warmnights/main/assets/banner.jpg)
+<img src="https://raw.githubusercontent.com/warmnights/warmnights/main/assets/banner.png" width="100%" alt="Banner">
 
 <div align="center">
 
