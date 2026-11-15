@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm David Gregorio &nbsp; <img src="https://raw.githubusercontent.com/warmnights/warmnights/main/assets/cat.gif" width="40" alt="Waving black cat">
+# Hi, I'm David Gregorio <img src="https://raw.githubusercontent.com/warmnights/warmnights/main/assets/cat.gif" width="35" alt="Waving black cat">
 
 **Student developer learning Java and JavaScript**
 
