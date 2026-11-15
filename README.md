@@ -1,62 +1,45 @@
-<!-- 07/27/2022 -->
+![Banner](https://raw.githubusercontent.com/warmnights/warmnights/main/assets/banner.jpg)
 
-![Banner](https://raw.githubusercontent.com/warmnights/warmnights/main/banner.png)
 <div align="center">
-<h1>
-Hey, I'm David Gregorio!
-<a href="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif"><img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width=40></a>
-</h1>
+
+# Hi, I'm David Gregorio &nbsp; <img src="https://raw.githubusercontent.com/warmnights/warmnights/main/assets/cat.gif" width="40" alt="Waving black cat">
+
+**Student developer learning Java and JavaScript**
+
 </div>
 
-<!-- Light Mode -->
-<div align="center">
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=warmnights&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=graywhite&hide_border=1&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Github stats" />
-</a>
--->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=warmnights&layout=compact&role=OWNER,COLLABORATOR&theme=graywhite&hide_border=1&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Language stats" />
-</a>
-</div>
+## About Me
 
-<!-- Dark Mode -->
-<div align="center">
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=warmnights&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Github stats" />
-</a>
--->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=warmnights&layout=compact&role=OWNER,COLLABORATOR&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Language stats" />
-</a>
-</div>
+- Student building real projects to practice what I learn in class
+- Currently learning: **Java** and **JavaScript**
+- Working on: my Java final project and a responsive website
+- Ask me about: Java basics, creating classes in Java, and building responsive websites with HTML and CSS
+- Best way to reach me: [Facebook](https://facebook.com/davidgregorio.dev)
 
-<br/>
+## Projects
 
-<!-- Gmail button 1 -->
+| Project | Description | Tech |
+| --- | --- | --- |
+| **Kain Tayo!** | A responsive food website with a shared navbar and multiple pages | HTML, CSS, JavaScript |
+| **Inventory & Sales Invoice System** | Final project: add, edit, search, delete, and display inventory items (name, quantity, price), then generate a sales invoice from the stock. *In progress* | Java |
+
+## Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Connect With Me
+
 <div align="center">
-<a href="mailto:dcgregorio16@gmail.com?subject=subject&message=message">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" >
-</a>
-&nbsp;
-<!-- LinkedIn button 2 -->
-<a href="https://linkedin.com/in/duskk">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
-</a>
-&nbsp;
-<!-- Stack Overflow button 3 -->
-<a href="https://stackoverflow.com/users/19586345">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" >
-</a>
-&nbsp;
-<!-- Sololearn button 4 -->
-<a href="https://www.sololearn.com/profile/26203056">
-<img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white" alt="Sololearn" >
-</a>
-&nbsp;
-<!-- Facebook button 5 -->
-<a href="https://facebook.com/dcgregorio16">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
+
+<a href="https://facebook.com/davidgregorio.dev"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="mailto:davidgregorio.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/duskk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://stackoverflow.com/users/19586345"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://www.sololearn.com/profile/26203056"><img src="https://img.shields.io/badge/Sololearn-3a464b?style=for-the-badge&logo=sololearn&logoColor=white" alt="Sololearn" /></a>
+
 </div>
