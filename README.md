@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/warmnights/warmnights/main/assets/banner.png" width="100%" alt="Banner">
+<img src="https://raw.githubusercontent.com/warmnights/warmnights/main/assets/banner.jpg" width="100%" alt="Banner">
 
 <div align="center">
 
