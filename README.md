@@ -20,7 +20,7 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| **Kain Tayo!** | A responsive food website with a shared navbar and multiple pages | HTML, CSS, JavaScript |
+| **Silangan** | A responsive Filipino food website with dishes, regional specialties, recipes, and a map of the Philippines. | HTML, CSS, JavaScript |
 | **Inventory & Sales Invoice System** | Final project: add, edit, search, delete, and display inventory items (name, quantity, price), then generate a sales invoice from the stock. *In progress* | Java |
 
 ## Tech Stack
